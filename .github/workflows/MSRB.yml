@@ -45,6 +45,10 @@ jobs:
     timeout-minutes: 30 # Limit the time of the bot
 
     steps:
+
+    - name: Check Public IP
+      uses: haythem/public-ip@main
+
     - name: checkout
       uses: actions/checkout@v3
 
