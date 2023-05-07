@@ -47,10 +47,10 @@ jobs:
     steps:
 
     - name: Check Public IP
-      uses: haythem/public-ip@main
+      uses: haythem/public-ip@master
 
     - name: checkout
-      uses: actions/checkout@v3
+      uses: actions/checkout@master
 
 # SET REPO STUFF
 
