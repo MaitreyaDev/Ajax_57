@@ -1,0 +1,8 @@
+{
+    "servassburg@outlook.com": {
+        "Last check": "2023-05-07",
+        "Today's points": 581,
+        "Points": 1106
+    },
+    "Elapsed time": "00:18:16"
+}
