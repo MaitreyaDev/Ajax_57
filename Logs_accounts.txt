@@ -1,8 +1,8 @@
 {
     "servassburg@outlook.com": {
-        "Last check": "2023-05-08",
-        "Today's points": 521,
-        "Points": 1627
+        "Last check": "2023-05-09",
+        "Today's points": 486,
+        "Points": 2113
     },
-    "Elapsed time": "00:12:47"
+    "Elapsed time": "00:12:57"
 }
